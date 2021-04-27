@@ -7,7 +7,7 @@ fi
 
 domains=(api-lms.falcer.tech)
 rsa_key_size=4096
-data_path="./data/certbot"
+data_path="./config/certbot"
 email="falcerdeveloper@gmail.com" # Adding a valid address is strongly recommended
 # 0 -> Production
 # 1 -> Development
